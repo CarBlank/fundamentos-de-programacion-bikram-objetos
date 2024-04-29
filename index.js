@@ -128,7 +128,7 @@ Grupo.numIntegrantes = 5
 
 Pantalla.dimensiones = '1920x1080'
 
-Led.encendido = (false != true || true != false)
+Led.encendido = (false != true || true != false);
 
 Movil.temperatura = '20º'
 
